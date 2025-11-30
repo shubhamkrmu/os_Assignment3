@@ -73,10 +73,10 @@ Repository Structure
 
 Learning Objectives
 
-✔ Understand CPU scheduling behavior
-✔ Simulate file allocation strategies
-✔ Analyze memory allocation performance
-✔ Apply OS theory in Python programs
+ Understand CPU scheduling behavior
+ Simulate file allocation strategies
+Analyze memory allocation performance
+ Apply OS theory in Python programs
 
 Requirements
 
